@@ -1,1 +1,15 @@
 /* write your override styles here */
+tag-1 {
+  position: absolute;
+  background: url(file:///home/paul/Development/code/phase-0/phase-0-css-graffiti-lab/images/tag-1.png);
+}
+
+#tag-2 {
+  position: absolute;
+  background: url(file:///home/paul/Development/code/phase-0/phase-0-css-graffiti-lab/images/tag-2.png);
+}
+
+#tag-3 {
+  position: absolute;
+  background: url(file:///home/paul/Development/code/phase-0/phase-0-css-graffiti-lab/images/tag-3.png);
+}
